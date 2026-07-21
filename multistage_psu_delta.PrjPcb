@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NQRAXKLJ
 
 [Document6]
-DocumentPath=Connectors.SchDoc
+DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
